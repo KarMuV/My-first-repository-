@@ -1,4 +1,4 @@
-# My-first-repository-
+# My-first-repository
 <!DOCTYPE html>
 <html>
     <head>
